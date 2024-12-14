@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: orchestrator
+Version: 0.1
+Requires-Dist: pykka
+Requires-Dist: grain1
+Requires-Dist: grain2
